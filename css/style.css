@@ -6,7 +6,10 @@ h1{
     text-align: center;
 }
 
-
+h2{
+	padding: 1rem 2rem;
+	border-left: 4px solid #008b8b
+}
 /* h2::before {
 	position: absolute;
 	left: -6px;
