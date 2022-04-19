@@ -40,3 +40,7 @@ h2::after {
 	font-size: 9px;
     text-align: right;
 }
+
+.itemization{
+	line-height:200%;
+}
