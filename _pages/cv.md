@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Engineering, the University of Tokyo, 2020
+  * Advisor: Prof. Kazuhiro Aoyama
+* M.S. in Computer Science, the University of Tokyo, 2022
+  * Advisor: Prof. Yusuke Sugano
+* Ph.D in Computer Science, the University of Tokyo, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 2022 - Current: [Preferred Networks](https://www.preferred.jp/)
+  * Project engineer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug. 2022 - Sep. 2022: [Preferred Networks](https://www.preferred.jp/)
+  * Research intern
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Apr. 2022 - Mar. 2025: [SPRING GX](https://spring-gx.adm.s.u-tokyo.ac.jp/)
+
+* Apr. 2020 - Mar. 2021: [Ghelia Inc.](https://ghelia.com/)
+  * Machine Learning Engineer
+
 
 Publications
 ======
