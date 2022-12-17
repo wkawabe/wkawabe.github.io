@@ -37,6 +37,7 @@ Work experience
   * Research intern
   
 * Apr. 2022 - Mar. 2025: [SPRING GX](https://spring-gx.adm.s.u-tokyo.ac.jp/)
+  * Member
 
 * Apr. 2020 - Mar. 2021: [Ghelia Inc.](https://ghelia.com/)
   * Machine learning engineer
