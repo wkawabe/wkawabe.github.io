@@ -22,8 +22,10 @@ Education
   * Supervisor: Prof. Yusuke Sugano
 * M.S. in Computer Science, the University of Tokyo, 2022
   * Supervisor: Prof. Yusuke Sugano
+  * Thesis: *Interactive Image Recognition for Non-Expert Users based on Image-to-Text Translation*
 * B.S. in Engineering, the University of Tokyo, 2020
   * Supervisor: Prof. Kazuhiro Aoyama
+  * Thesis: *A Method to Extract the Object Processing on Assembly Surface Plates in a Shipyard*
 
 
 Work experience
