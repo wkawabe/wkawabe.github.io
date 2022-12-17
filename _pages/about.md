@@ -8,26 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Wataru Kawabe is a first-year Ph.D. student at the University of Tokyo, advised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). He is interested in interactive machine learning systems and human-centered machine-learning usage. 
+Wataru Kawabe is a first-year Ph.D. student at the University of Tokyo, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). He is interested in interactive machine learning systems and human-centered machine-learning usage. 
 
 News
-======
+------
 * Held [a workshop in Miraikan](https://www.miraikan.jst.go.jp/events/202207302596.html)
 * Accepted for [AIP Challenge](https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/list2022.html)
 * Spoke at [Graduate Student Forum](https://tcjs.u-tokyo.ac.jp/ja/archives/3170)
 
 Education
-======
+------
 * Ph.D in Computer Science, the University of Tokyo, 2025 (expected)
-  * Advisor: Prof. Yusuke Sugano
+  * Supervisor: Prof. Yusuke Sugano
 * M.S. in Computer Science, the University of Tokyo, 2022
-  * Advisor: Prof. Yusuke Sugano
+  * Supervisor: Prof. Yusuke Sugano
 * B.S. in Engineering, the University of Tokyo, 2020
-  * Advisor: Prof. Kazuhiro Aoyama
+  * Supervisor: Prof. Kazuhiro Aoyama
 
 
 Work experience
-======
+------
 * Oct. 2022 - Current: [Preferred Networks](https://www.preferred.jp/)
   * Project engineer
 
@@ -37,4 +37,4 @@ Work experience
 * Apr. 2022 - Mar. 2025: [SPRING GX](https://spring-gx.adm.s.u-tokyo.ac.jp/)
 
 * Apr. 2020 - Mar. 2021: [Ghelia Inc.](https://ghelia.com/)
-  * Machine Learning Engineer
+  * Machine learning engineer
