@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Wataru Kawabe is a first-year Ph.D. student at the University of Tokyo. He is interested in interactive machine learning systems and human-centered machine-learning usage. 
+Wataru Kawabe is a first-year Ph.D. student at the University of Tokyo. 
+
+He is interested in interactive machine learning systems and human-centered machine-learning usage. 
 
 News
 ======
@@ -18,11 +20,12 @@ News
 
 Education
 ======
-* B.S. in Engineering, the University of Tokyo, 2020
-  * Advisor: Prof. Kazuhiro Aoyama
+* Ph.D in Computer Science, the University of Tokyo, 2025 (expected)
+  * Advisor: Prof. Yusuke Sugano
 * M.S. in Computer Science, the University of Tokyo, 2022
   * Advisor: Prof. Yusuke Sugano
-* Ph.D in Computer Science, the University of Tokyo, 2025 (expected)
+* B.S. in Engineering, the University of Tokyo, 2020
+  * Advisor: Prof. Kazuhiro Aoyama
 
 
 Work experience
@@ -37,6 +40,3 @@ Work experience
 
 * Apr. 2020 - Mar. 2021: [Ghelia Inc.](https://ghelia.com/)
   * Machine Learning Engineer
-
-
-
