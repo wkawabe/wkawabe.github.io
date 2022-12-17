@@ -83,7 +83,7 @@ author:
   name             : "Wataru Kawabe"
   avatar           : "profile.jpg"
   bio              : "First-year Ph.D. student"
-  location         : [Sugano lab., the University of Tokyo](https://www.ut-vision.org/ja/sugano-lab/)
+  location         : "Tokyo"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  # - scope:
-  #     path: ""
-  #     type: teaching
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _projects
   - scope:
       path: ""
