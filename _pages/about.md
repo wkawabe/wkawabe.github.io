@@ -28,7 +28,7 @@ Education
   * Thesis: *A Method to Extract the Object Processing on Assembly Surface Plates in a Shipyard*
 
 
-Work experience
+Experience
 ------
 * Oct. 2022 - Current: [Preferred Networks](https://www.preferred.jp/)
   * Project engineer
