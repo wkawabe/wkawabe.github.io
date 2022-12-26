@@ -18,7 +18,7 @@ News
 
 Education
 ------
-* Ph.D in Computer Science, the University of Tokyo, 2025 (expected)
+* Ph.D. in Computer Science, the University of Tokyo, 2025 (expected)
   * Supervisor: Prof. Yusuke Sugano
 * M.S. in Computer Science, the University of Tokyo, 2022
   * Supervisor: Prof. Yusuke Sugano
