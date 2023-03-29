@@ -30,7 +30,7 @@ Education
 
 Experience
 ------
-* Oct. 2022 - Current: [Preferred Networks](https://www.preferred.jp/)
+* Oct. 2022 - Mar. 2023: [Preferred Networks](https://www.preferred.jp/)
   * Project engineer
 
 * Aug. 2022 - Sep. 2022: [Preferred Networks](https://www.preferred.jp/)
