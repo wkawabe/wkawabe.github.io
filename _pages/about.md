@@ -30,14 +30,17 @@ Education
 
 Experience
 ------
+* May. 2023 - Nov. 2023: [Singapore Management University](https://www.smu.edu.sg/)
+  * Visiting Postgraduate Research Student
+
 * Oct. 2022 - Mar. 2023: [Preferred Networks](https://www.preferred.jp/)
-  * Project engineer
+  * Project Engineer
 
 * Aug. 2022 - Sep. 2022: [Preferred Networks](https://www.preferred.jp/)
-  * Research intern
+  * Research Intern
   
 * Apr. 2022 - Mar. 2025: [SPRING GX](https://spring-gx.adm.s.u-tokyo.ac.jp/)
   * Member
 
 * Apr. 2020 - Mar. 2021: [Ghelia Inc.](https://ghelia.com/)
-  * Machine learning engineer
+  * Machine Learning Engineer
