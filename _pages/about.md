@@ -12,6 +12,7 @@ Wataru Kawabe is a first-year Ph.D. student at the University of Tokyo, supervis
 
 News
 ------
+* May. 2023: Started an internship at [SMU HCI Research lab.](https://smuhci.com/)
 * Jul. 2022: Held [a workshop in Miraikan](https://www.miraikan.jst.go.jp/events/202207302596.html)
 * Apr. 2022: Accepted for [AIP Challenge](https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/list2022.html)
 * Mar. 2022: Spoke at [Graduate Student Forum](https://tcjs.u-tokyo.ac.jp/ja/archives/3170)
