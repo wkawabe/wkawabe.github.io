@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wataru Kawabe is a first-year Ph.D. student at the University of Tokyo, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). He is interested in interactive machine learning systems and human-centered machine-learning usage. 
+Wataru Kawabe (川邊 航) is a first-year Ph.D. student at the University of Tokyo, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). He is interested in interactive machine learning systems and human-centered machine-learning usage. 
 
 News
 ------
