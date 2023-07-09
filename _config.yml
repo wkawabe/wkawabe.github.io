@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wataru Kawabe"
   avatar           : "profile.jpg"
-  bio              : "First-year Ph.D. student"
+  bio              : "Doctoral student"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "wataru-kawabe-663055180"
   orcid            : 
