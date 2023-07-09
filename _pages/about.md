@@ -19,12 +19,12 @@ News
 
 Education
 ------
-* Ph.D. in Computer Science, the University of Tokyo, 2022 - 2025 (expected)
+* Ph.D. in Computer Science, the University of Tokyo, Apr. 2022 - Mar. 2025 (expected)
   * <span style="font-size: 85%; color: grey;">Supervisor: Prof. Yusuke Sugano</span>
-* M.S. in Computer Science, the University of Tokyo, 2020 - 2022
+* M.S. in Computer Science, the University of Tokyo, Apr. 2020 - Mar. 2022
   * <span style="font-size: 85%; color: grey;">Supervisor: Prof. Yusuke Sugano</span>
   * <span style="font-size: 85%; color: grey;">Thesis: *Interactive Image Recognition for Non-Expert Users based on Image-to-Text Translation*</span>
-* B.S. in Engineering, the University of Tokyo, 2015 - 2020
+* B.S. in Engineering, the University of Tokyo, Apr. 2015 - Mar. 2020
   * <span style="font-size: 85%; color: grey;">Supervisor: Prof. Kazuhiro Aoyama</span>
   * <span style="font-size: 85%; color: grey;">Thesis: *A Method to Extract the Object Processing on Assembly Surface Plates in a Shipyard*</span>
 
