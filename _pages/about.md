@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wataru Kawabe (川邊 航) is a second-year Ph.D. student at the University of Tokyo, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). He is interested in interactive machine learning systems and human-centered machine-learning usage. 
+Wataru Kawabe (川辺 航) is a second-year Ph.D. student at the University of Tokyo, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). He is interested in interactive machine learning systems and human-centered machine-learning usage. 
 
 News
 ------
@@ -44,4 +44,4 @@ Experience
   <br><span style="font-size: 85%; color: grey;">Member</span>
 
 * [Ghelia Inc.](https://ghelia.com/), Apr. 2020 - Mar. 2021
-  <span style="font-size: 85%; color: grey;">Machine Learning Engineer</span>
+  <br><span style="font-size: 85%; color: grey;">Machine Learning Engineer</span>
