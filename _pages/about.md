@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wataru Kawabe (川辺 航) is a second-year Ph.D. student at the University of Tokyo, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). He is interested in interactive machine learning systems and human-centered machine-learning usage. 
+Wataru Kawabe (川辺 航) is a second-year doctoral student at the University of Tokyo, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). He is interested in interactive machine learning systems and human-centered machine-learning usage. 
 
 News
 ------
@@ -19,12 +19,12 @@ News
 
 Education
 ------
-* Ph.D. in Computer Science, the University of Tokyo, Apr. 2022 - Mar. 2025 (expected)
+* Doctor in Computer Science, the University of Tokyo, Apr. 2022 - Mar. 2025 (expected)
   <br><span style="font-size: 85%; color: grey;">Supervisor: Prof. Yusuke Sugano</span>
-* M.S. in Computer Science, the University of Tokyo, Apr. 2020 - Mar. 2022
+* Master in Computer Science, the University of Tokyo, Apr. 2020 - Mar. 2022
   <br><span style="font-size: 85%; color: grey;">Supervisor: Prof. Yusuke Sugano</span>
   <!-- * <span style="font-size: 85%; color: grey;">Thesis: *Interactive Image Recognition for Non-Expert Users based on Image-to-Text Translation*</span> -->
-* B.E. in Engineering, the University of Tokyo, Apr. 2015 - Mar. 2020
+* Bachelor in Engineering, the University of Tokyo, Apr. 2015 - Mar. 2020
   <br><span style="font-size: 85%; color: grey;">Supervisor: Prof. Kazuhiro Aoyama</span>
   <!-- * <span style="font-size: 85%; color: grey;">Thesis: *A Process to Extract the Object Processing on Assembly Surface Plates in a Shipyard*</span> -->
 
