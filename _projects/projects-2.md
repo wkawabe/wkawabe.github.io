@@ -1,6 +1,6 @@
 ---
 title: "Technical Understanding from IML Hands-on Experience: A Study through a Public Event for Science Museum Visitors"
-excerpt: "<u><b>Wataru Kawabe</b></u>, Yuri Nakao, Akihisa Shitara, and Yusuke Sugano<br/>[Paper link](https://arxiv.org/abs/2305.05846)<br/><img src='/images/projects-2.png' width=600>"
+excerpt: "<u><b>Wataru Kawabe</b></u>, Yuri Nakao, Akihisa Shitara, and Yusuke Sugano<br/>[Paper link (arXiv)](https://arxiv.org/abs/2305.05846)<br/><img src='/images/projects-2.png' width=600>"
 collection: projects
 ---
 
