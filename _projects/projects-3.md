@@ -1,6 +1,6 @@
 ---
 title: "Interactive 3D Annotation of Objects in Moving Videos from Sparse Multi-View Frames"
-excerpt: "Kotaro Oomori, <u><b>Wataru Kawabe</b></u>, Fabrice Matulic, Takeo Igarashi, and Keita Higuchi<br/>ACM Interactive Surface and Spaces, 2023<br/>doi (TBA)<br/><img src='/images/tba.png' width=600>"
+excerpt: "Kotaro Oomori, <u><b>Wataru Kawabe</b></u>, Fabrice Matulic, Takeo Igarashi, and Keita Higuchi<br/>International Conference on Interactive Surface and Spaces, 2023<br/>doi (TBA)<br/><img src='/images/tba.png' width=600>"
 collection: projects
 ---
 
