@@ -1,10 +1,10 @@
 ---
 title: "Interactive 3D Annotation of Objects in Moving Videos from Sparse Multi-View Frames"
-excerpt: "Kotaro Oomori, <u><b>Wataru Kawabe</b></u>, Fabrice Matulic, Takeo Igarashi, and Keita Higuchi<br/>Proceedings of the ACM on Human-Computer Interaction, ISS, 2023<br/>[doi](https://dl.acm.org/doi/10.1145/3626476)<br/><img src='/images/tba.png' width=600>"
+excerpt: "Kotaro Oomori, <u><b>Wataru Kawabe</b></u>, Fabrice Matulic, Takeo Igarashi, and Keita Higuchi<br/>Proceedings of the ACM on Human-Computer Interaction, ISS, 2023<br/>[doi](https://dl.acm.org/doi/10.1145/3626476)"
 collection: projects
 ---
 
-<img src='/images/tba.png'>
+<!-- <img src='/images/tba.png'> -->
 
 [doi](https://dl.acm.org/doi/10.1145/3626476)
 
