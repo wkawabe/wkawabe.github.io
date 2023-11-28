@@ -1,6 +1,6 @@
 ---
 title: "Interactive Material Annotation on 3D Scanned Models leveraging Color-Material Correlation"
-excerpt: "<u><b>Wataru Kawabe</b></u>, Taisuke Hashimoto, Fabrice Matulic, Takeo Igarashi, and Keita Higuchi<br/>[doi](https://dl.acm.org/doi/10.1145/3610543.3626170)<br/><img src='/images/projects-4.png' width=600>"
+excerpt: "<u><b>Wataru Kawabe</b></u>, Taisuke Hashimoto, Fabrice Matulic, Takeo Igarashi, and Keita Higuchi<br/>SIGGRAPH Asia, Technical Communications, 2023<br/>[doi](https://dl.acm.org/doi/10.1145/3610543.3626170)<br/><img src='/images/projects-4.png' width=600>"
 collection: projects
 ---
 
