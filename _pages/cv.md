@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Contact: wkawabe (at) iis.u-tokyo.ac.jp
+
 Education
 ======
 * Doctor in Computer Science, the University of Tokyo, 2025 (expected)
@@ -31,6 +33,7 @@ Work experience
   * Research intern
   
 * Apr. 2022 - Mar. 2025: [SPRING GX](https://spring-gx.adm.s.u-tokyo.ac.jp/)
+  * Member
 
 * Apr. 2020 - Mar. 2021: [Ghelia Inc.](https://ghelia.com/)
   * Machine Learning Engineer
@@ -38,12 +41,13 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  Please check my [projects page](https://wkawabe.github.io/projects/).
   
-Talks
+
+Talks & Events
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Jul. 2022: [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202207302596.html)
+  * The event allowed Miraikan visitors to easily try out interactive machine learning systems on the spot.
+
+* Mar. 2022: [A presentation in Graduate Student Forum, the University of Tokyo](https://tcjs.u-tokyo.ac.jp/ja/archives/3170)
+  * This talk is about end-user involvement with interactive machine learning systems.
