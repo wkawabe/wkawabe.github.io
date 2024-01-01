@@ -11,15 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering, the University of Tokyo, 2020
-  * Advisor: Prof. Kazuhiro Aoyama
-* M.S. in Computer Science, the University of Tokyo, 2022
+* Doctor in Computer Science, the University of Tokyo, 2025 (expected)
   * Advisor: Prof. Yusuke Sugano
-* Ph.D in Computer Science, the University of Tokyo, 2025 (expected)
+* Master in Computer Science, the University of Tokyo, 2022
+  * Advisor: Prof. Yusuke Sugano
+* Bachelor in Engineering, the University of Tokyo, 2020
+  * Advisor: Prof. Kazuhiro Aoyama
+
 
 Work experience
 ======
-* Oct. 2022 - Current: [Preferred Networks](https://www.preferred.jp/)
+* May. 2023 - Nov. 2023: [Preferred Networks](https://www.preferred.jp/)
+  * Visiting Postgraduate Research Student
+
+* Oct. 2022 - Mar. 2023: [Preferred Networks](https://www.preferred.jp/)
   * Project engineer
 
 * Aug. 2022 - Sep. 2022: [Preferred Networks](https://www.preferred.jp/)
