@@ -45,3 +45,8 @@ Experience
 
 * [Ghelia Inc.](https://ghelia.com/), Apr. 2020 - Mar. 2021
   <br><span style="font-size: 85%; color: grey;">Machine Learning Engineer</span>
+
+
+Research
+------
+  Please check my [projects page](https://wkawabe.github.io/projects/).

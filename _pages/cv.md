@@ -39,7 +39,7 @@ Work experience
   * Machine Learning Engineer
 
 
-Publications
+Research
 ======
   Please check my [projects page](https://wkawabe.github.io/projects/).
   
