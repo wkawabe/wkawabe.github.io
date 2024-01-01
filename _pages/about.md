@@ -50,3 +50,14 @@ Experience
 Research
 ------
   Please check my [projects page](https://wkawabe.github.io/projects/).
+
+Talks & Events
+------
+* Mar. 2024: A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)
+  <br><span style="font-size: 85%; color: grey;">TBA</span>
+
+* Jul. 2022: [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202207302596.html)
+  <br><span style="font-size: 85%; color: grey;">The event allowed Miraikan visitors to easily try out interactive machine learning systems on the spot.</span>
+
+* Mar. 2022: [A presentation in Graduate Student Forum, the University of Tokyo](https://tcjs.u-tokyo.ac.jp/ja/archives/3170)
+  <br><span style="font-size: 85%; color: grey;">This talk is about end-user involvement with interactive machine learning systems.</span>
