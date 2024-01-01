@@ -31,7 +31,7 @@ Education
 
 Experience
 ------
-* [Singapore Management University](https://www.smu.edu.sg/), May 2023 - Nov. 2023: 
+* [Singapore Management University](https://www.smu.edu.sg/), May 2023 - Nov. 2023
   <br><span style="font-size: 85%; color: grey;">Visiting Postgraduate Research Student</span>
 
 * [Preferred Networks](https://www.preferred.jp/), Oct. 2022 - Mar. 2023 
@@ -53,11 +53,11 @@ Research
 
 Talks & Events
 ------
-* Mar. 2024: A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)
+* A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan), Mar. 2024
   <br><span style="font-size: 85%; color: grey;">TBA</span>
 
-* Jul. 2022: [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202207302596.html)
+* [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202207302596.html), Jul. 2022
   <br><span style="font-size: 85%; color: grey;">The event allowed Miraikan visitors to easily try out interactive machine learning systems on the spot.</span>
 
-* Mar. 2022: [A presentation in Graduate Student Forum, the University of Tokyo](https://tcjs.u-tokyo.ac.jp/ja/archives/3170)
+* [A presentation in Graduate Student Forum, the University of Tokyo](https://tcjs.u-tokyo.ac.jp/ja/archives/3170), Mar. 2022
   <br><span style="font-size: 85%; color: grey;">This talk is about end-user involvement with interactive machine learning systems.</span>
