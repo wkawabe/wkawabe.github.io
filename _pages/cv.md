@@ -14,11 +14,11 @@ Contact: wkawabe (at) iis.u-tokyo.ac.jp
 Education
 ======
 * Mar. 2025: Doctor in Computer Science, the University of Tokyo (expected)
-  * Advisor: Prof. Yusuke Sugano
+  * Advisor: [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/)
 * Mar. 2022: Master in Computer Science, the University of Tokyo
   * Advisor: Prof. Yusuke Sugano
 * Mar. 2020: Bachelor in Engineering, the University of Tokyo
-  * Advisor: Prof. Kazuhiro Aoyama
+  * Advisor: [Prof. Kazuhiro Aoyama](https://www.sys.t.u-tokyo.ac.jp/en/memberpage/170)
 
 
 Work experience
@@ -27,10 +27,10 @@ Work experience
   * Visiting Postgraduate Research Student
 
 * Oct. 2022 - Mar. 2023: [Preferred Networks](https://www.preferred.jp/)
-  * Project engineer
+  * Project Engineer
 
 * Aug. 2022 - Sep. 2022: [Preferred Networks](https://www.preferred.jp/)
-  * Research intern
+  * Research Intern
   
 * Apr. 2022 - Mar. 2025: [SPRING GX](https://spring-gx.adm.s.u-tokyo.ac.jp/)
   * Member
@@ -46,7 +46,7 @@ Publications
 
 Talks & Events
 ======
-* Mar. 2024: A workshop in Miraikan
+* Mar. 2024: A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)
   * TBA
 
 * Jul. 2022: [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202207302596.html)
