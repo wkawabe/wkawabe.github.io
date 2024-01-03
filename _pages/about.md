@@ -12,10 +12,9 @@ Wataru Kawabe (川辺 航) is a second-year doctoral student at the University o
 
 News
 ------
+* Presented [a work related with 3D scanning](https://dl.acm.org/doi/10.1145/3610543.3626170) at SIGGRAPH Asia, Dec. 2023
 * Started an internship at [SMU HCI Research lab.](https://smuhci.com/), May 2023
 * Held [a workshop in Miraikan](https://www.miraikan.jst.go.jp/events/202207302596.html), Jul. 2022
-* Accepted for [AIP Challenge](https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/list2022.html), Apr. 2022
-* Spoke at [Graduate Student Forum](https://tcjs.u-tokyo.ac.jp/ja/archives/3170), Mar. 2022
 
 Education
 ------
@@ -41,6 +40,9 @@ Experience
   <br><span style="font-size: 85%; color: grey;">Research Intern</span>
   
 * [SPRING GX](https://spring-gx.adm.s.u-tokyo.ac.jp/), Apr. 2022 - Mar. 2025
+  <br><span style="font-size: 85%; color: grey;">Member</span>
+
+* [AIP Challenge](https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/list2022.html), Apr. 2022 - Mar. 2023
   <br><span style="font-size: 85%; color: grey;">Member</span>
 
 * [Ghelia Inc.](https://ghelia.com/), Apr. 2020 - Mar. 2021
