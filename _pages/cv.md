@@ -35,6 +35,9 @@ Work experience
 * [SPRING GX](https://spring-gx.adm.s.u-tokyo.ac.jp/), Apr. 2022 - Mar. 2025
   * Member
 
+* [AIP Challenge](https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/list2022.html), Apr. 2022 - Mar. 2023
+  * Member
+
 * [Ghelia Inc.](https://ghelia.com/), Apr. 2020 - Mar. 2021
   * Machine Learning Engineer
 
