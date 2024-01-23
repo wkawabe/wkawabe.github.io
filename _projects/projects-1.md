@@ -1,6 +1,6 @@
 ---
 title: "Image-to-Text Translation for Interactive Image Recognition: A Comparative User Study with Non-Expert Users"
-excerpt: "<u><b>Wataru Kawabe</b></u> and Yusuke Sugano<br/>Journal of Information Processing, Vol.32, 2024<br/>[arXiv](https://arxiv.org/abs/2305.06641), doi (TBA)<br/><img src='/images/projects-1.png' width=600>"
+excerpt: "<u><b>Wataru Kawabe</b></u> and Yusuke Sugano<br/>Journal of Information Processing, 2024<br/>[arXiv](https://arxiv.org/abs/2305.06641), doi (TBA)<br/><img src='/images/projects-1.png' width=600>"
 collection: projects
 ---
 
