@@ -1,6 +1,6 @@
 ---
 title: "Technical Understanding from Interactive Machine Learning Experience: A Study through a Public Event for Science Museum Visitors"
-excerpt: "<u><b>Wataru Kawabe</b></u>, Yuri Nakao, Akihisa Shitara, and Yusuke Sugano<br/>Interacting with Computers, 2024<br/>[arXiv](https://arxiv.org/abs/2305.05846), doi (TBA)<br/><img src='/images/projects-2.png' width=600>"
+excerpt: "<u><b>Wataru Kawabe</b></u>, Yuri Nakao, Akihisa Shitara, and Yusuke Sugano<br/>Interacting with Computers, 2024 (in press)<br/>[arXiv](https://arxiv.org/abs/2305.05846), doi (TBA)<br/><img src='/images/projects-2.png' width=600>"
 collection: projects
 ---
 
