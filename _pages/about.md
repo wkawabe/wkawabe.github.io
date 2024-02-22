@@ -55,7 +55,7 @@ Research
 
 Talks & Events
 ------
-* A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan), Mar. 2024
+* [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/research/facilities/tours/#t3), Mar. 2024
   <br><span style="font-size: 85%; color: grey;">TBA</span>
 
 * [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202207302596.html), Jul. 2022
