@@ -12,9 +12,10 @@ Wataru Kawabe (川辺 航) is a second-year doctoral student at the University o
 
 News
 ------
-* Presented [a work related with 3D scanning](https://dl.acm.org/doi/10.1145/3610543.3626170) at SIGGRAPH Asia, Dec. 2023
-* Started an internship at [SMU HCI Research lab.](https://smuhci.com/), May 2023
-* Held [a workshop in Miraikan](https://www.miraikan.jst.go.jp/events/202207302596.html), Jul. 2022
+* [A paper on user analysis at a science museum](https://doi.org/10.1093/iwc/iwae007) was published in Interacting with Computers.
+* We presented [a work related with 3D scanning](https://dl.acm.org/doi/10.1145/3610543.3626170) at SIGGRAPH Asia, Dec. 2023
+* I started an internship at [SMU HCI Research lab.](https://smuhci.com/), May 2023
+<!-- * Held [a workshop in Miraikan](https://www.miraikan.jst.go.jp/events/202207302596.html), Jul. 2022 -->
 
 Education
 ------
@@ -56,7 +57,7 @@ Research
 Talks & Events
 ------
 * [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/research/facilities/tours/#t3), Mar. 2024
-  <br><span style="font-size: 85%; color: grey;">TBA</span>
+  <br><span style="font-size: 85%; color: grey;">This event is a workshop using a tangibles interactive machine learning system that uses sound as input and motion as output.</span>
 
 * [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202207302596.html), Jul. 2022
   <br><span style="font-size: 85%; color: grey;">The event allowed Miraikan visitors to easily try out interactive machine learning systems on the spot.</span>
