@@ -61,7 +61,8 @@ Talks & Events
 
 * [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202207302596.html), Jul. 2022
   <br><span style="font-size: 85%; color: grey;">The event allowed Miraikan visitors to easily try out interactive machine learning systems on the spot.</span>
-  <br><span style="font-size: 85%; color: grey;">[Video of the event](https://youtu.be/MX2XYA0LKa8?si=7hV9LGVfgSrCGMcz)</span>
+  <br><span style="font-size: 85%; color: grey;">[Video of the event (Sugano lab.)](https://youtu.be/MX2XYA0LKa8?si=7hV9LGVfgSrCGMcz)</span>
+  <br><span style="font-size: 85%; color: grey;">[Video of the event (Highlights)](https://youtu.be/MX2XYA0LKa8?si=jqPNTpAcBWogcbF1)</span>
 
 * [A presentation in Graduate Student Forum, the University of Tokyo](https://tcjs.u-tokyo.ac.jp/ja/archives/3170), Mar. 2022
   <br><span style="font-size: 85%; color: grey;">This talk is about end-user involvement with interactive machine learning systems.</span>
