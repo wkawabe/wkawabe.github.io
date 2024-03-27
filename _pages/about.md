@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wataru Kawabe (川辺 航) is a second-year doctoral student at the University of Tokyo, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). His interest lies in interactive machine learning systems and human-centered machine-learning applications. He is especially focused on exploring ways to make AI and other information technologies more accessible and user-friendly for beginners who lack a technical background or knowledge.
+Wataru Kawabe (川辺 航) is a third-year doctoral student at the University of Tokyo, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). His interest lies in interactive machine learning systems and human-centered machine-learning applications. He is especially focused on exploring ways to make AI and other information technologies more accessible and user-friendly for beginners who lack a technical background or knowledge.
 
 News
 ------
