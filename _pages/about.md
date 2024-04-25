@@ -8,23 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Wataru Kawabe (川辺 航) is a third-year doctoral student at the University of Tokyo, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). His interest lies in interactive machine learning systems and human-centered machine-learning applications. He is especially focused on exploring ways to make AI and other information technologies more accessible and user-friendly for beginners who lack a technical background or knowledge.
+Wataru Kawabe (川辺 航) is a third-year doctoral student at The University of Tokyo, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). His interest lies in interactive machine learning systems and human-centered machine-learning applications. He is especially focused on exploring ways to make AI and other information technologies more accessible and user-friendly for beginners who lack a technical background or knowledge.
 
 News
 ------
+* [A paper on output format in ML prototyping](https://doi.org/10.2197/ipsjjip.32.358) was published in Journal of Information Processing.
 * [A paper on user analysis at a science museum](https://doi.org/10.1093/iwc/iwae007) was published in Interacting with Computers.
 * We presented [a work related with 3D scanning](https://dl.acm.org/doi/10.1145/3610543.3626170) at SIGGRAPH Asia, Dec. 2023
-* I started an internship at [SMU HCI Research lab.](https://smuhci.com/), May 2023
 <!-- * Held [a workshop in Miraikan](https://www.miraikan.jst.go.jp/events/202207302596.html), Jul. 2022 -->
 
 Education
 ------
-* Doctor in Computer Science, the University of Tokyo, Apr. 2022 - Mar. 2025 (expected)
+* Doctor in Computer Science, The University of Tokyo, Apr. 2022 - Mar. 2025 (expected)
   <br><span style="font-size: 85%; color: grey;">Supervisor: Prof. Yusuke Sugano</span>
-* Master in Computer Science, the University of Tokyo, Apr. 2020 - Mar. 2022
+* Master in Computer Science, The University of Tokyo, Apr. 2020 - Mar. 2022
   <br><span style="font-size: 85%; color: grey;">Supervisor: Prof. Yusuke Sugano</span>
   <!-- * <span style="font-size: 85%; color: grey;">Thesis: *Interactive Image Recognition for Non-Expert Users based on Image-to-Text Translation*</span> -->
-* Bachelor in Engineering, the University of Tokyo, Apr. 2015 - Mar. 2020
+* Bachelor in Engineering, The University of Tokyo, Apr. 2015 - Mar. 2020
   <br><span style="font-size: 85%; color: grey;">Supervisor: Prof. Kazuhiro Aoyama</span>
   <!-- * <span style="font-size: 85%; color: grey;">Thesis: *A Process to Extract the Object Processing on Assembly Surface Plates in a Shipyard*</span> -->
 
@@ -63,5 +63,5 @@ Talks & Events
   <br><span style="font-size: 85%; color: grey;">The event allowed Miraikan visitors to easily try out interactive machine learning systems on the spot.</span>
   <br><span style="font-size: 85%; color: grey;">[Video of this event](https://youtu.be/MX2XYA0LKa8?si=7hV9LGVfgSrCGMcz)</span>
 
-* [A presentation in Graduate Student Forum, the University of Tokyo](https://tcjs.u-tokyo.ac.jp/ja/archives/3170), Mar. 2022
+* [A presentation in Graduate Student Forum, The University of Tokyo](https://tcjs.u-tokyo.ac.jp/ja/archives/3170), Mar. 2022
   <br><span style="font-size: 85%; color: grey;">This talk is about end-user involvement with interactive machine learning systems.</span>

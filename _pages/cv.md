@@ -13,11 +13,11 @@ Contact: wkawabe (at) iis.u-tokyo.ac.jp
 
 Education
 ======
-* Doctor in Computer Science, the University of Tokyo, Apr. 2022 - Mar. 2025 (expected)
+* Doctor in Computer Science, The University of Tokyo, Apr. 2022 - Mar. 2025 (expected)
   * Advisor: [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/)
-* Master in Computer Science, the University of Tokyo, Apr. 2020 - Mar. 2022
+* Master in Computer Science, The University of Tokyo, Apr. 2020 - Mar. 2022
   * Advisor: Prof. Yusuke Sugano
-* Bachelor in Engineering, the University of Tokyo, Apr. 2015 - Mar. 2020
+* Bachelor in Engineering, The University of Tokyo, Apr. 2015 - Mar. 2020
   * Advisor: [Prof. Kazuhiro Aoyama](https://www.sys.t.u-tokyo.ac.jp/en/memberpage/170)
 
 
@@ -56,5 +56,5 @@ Talks & Events
   * The event allowed Miraikan visitors to easily try out interactive machine learning systems on the spot.
   * [Video of this event](https://youtu.be/MX2XYA0LKa8?si=7hV9LGVfgSrCGMcz)
 
-* [A presentation in Graduate Student Forum, the University of Tokyo](https://tcjs.u-tokyo.ac.jp/ja/archives/3170), Mar. 2022
+* [A presentation in Graduate Student Forum, The University of Tokyo](https://tcjs.u-tokyo.ac.jp/ja/archives/3170), Mar. 2022
   * This talk is about end-user involvement with interactive machine learning systems.
