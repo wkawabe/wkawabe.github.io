@@ -59,7 +59,7 @@ Talks & Events
 * [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/research/facilities/tours/#t3), Mar. 2024
   <br><span style="font-size: 85%; color: grey;">This event is a workshop using a tangibles interactive machine learning system that uses sound as input and motion as output.</span>
 
-* [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202207302596.html), Jul. 2022
+* A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan), Jul. 2022
   <br><span style="font-size: 85%; color: grey;">The event allowed Miraikan visitors to easily try out interactive machine learning systems on the spot.</span>
   <br><span style="font-size: 85%; color: grey;">[Video of this event](https://youtu.be/MX2XYA0LKa8?si=7hV9LGVfgSrCGMcz)</span>
 
