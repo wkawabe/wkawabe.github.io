@@ -4,7 +4,7 @@ excerpt: "Kotaro Oomori, <u><b>Wataru Kawabe</b></u>, Fabrice Matulic, Takeo Iga
 collection: projects
 ---
 
-<!-- <img src='/images/tba.png'> -->
+<img src='/images/projects-3.png'>
 
 [doi](https://dl.acm.org/doi/10.1145/3626476),
 [video](https://youtu.be/PT-PElgtQcI?si=ExvknLbsv6hNsMYQ)
