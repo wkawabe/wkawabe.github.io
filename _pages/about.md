@@ -12,7 +12,7 @@ Wataru Kawabe (川辺 航) is a third-year doctoral student at The University of
 
 News
 ------
-* I gave a presentation in [the Lab Encounter with CUDANLab, Tallinn University](https://youtu.be/Cm251vBy5sU?si=wg7LfX1_f0KaK_kL).
+* I gave a presentation in the [Lab Encounter with CUDANLab, Tallinn University](https://youtu.be/Cm251vBy5sU?si=wg7LfX1_f0KaK_kL).
 * [A paper on output format in ML prototyping](https://doi.org/10.2197/ipsjjip.32.358) was published in Journal of Information Processing.
 * [A paper on user analysis at a science museum](https://doi.org/10.1093/iwc/iwae007) was published in Interacting with Computers.
 <!-- * We presented [a work related with 3D scanning](https://dl.acm.org/doi/10.1145/3610543.3626170) at SIGGRAPH Asia, Dec. 2023 -->
@@ -57,7 +57,8 @@ Research
 
 Talks & Events
 ------
-* [Lab Encounter with CUDANLab, Tallinn University](https://youtu.be/Cm251vBy5sU?si=wg7LfX1_f0KaK_kL)
+* [Lab Encounter with CUDANLab, Tallinn University](https://youtu.be/Cm251vBy5sU?si=wg7LfX1_f0KaK_kL), Apr. 2024
+  <br><span style="font-size: 85%; color: grey;">Lab members including me gave a presentation about published topics.</span>
 
 * [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/research/facilities/tours/#t3), Mar. 2024
   <br><span style="font-size: 85%; color: grey;">This event is a workshop using a tangibles interactive machine learning system that uses sound as input and motion as output.</span>
