@@ -49,6 +49,9 @@ Research
 
 Talks & Events
 ======
+* [Green Transformation (GX) in The University of Tokyo](https://www.u-tokyo.ac.jp/content/400240676.pdf)
+  * I participated in research introductions and roundtable-style interviews.
+
 * [Lab Encounter with CUDANLab, Tallinn University](https://youtu.be/Cm251vBy5sU?si=wg7LfX1_f0KaK_kL), Apr. 2024
   * Lab members including me gave a presentation about published topics.
 
