@@ -57,7 +57,7 @@ Research
 
 Talks & Events
 ------
-* [Green Transformation (GX) in The University of Tokyo](https://www.u-tokyo.ac.jp/content/400240676.pdf)
+* [Green Transformation (GX) in The University of Tokyo](https://www.u-tokyo.ac.jp/content/400240676.pdf), Apr. 2024
   <br><span style="font-size: 85%; color: grey;">I participated in research introductions and roundtable-style interviews.</span>
 
 * [Lab Encounter with CUDANLab, Tallinn University](https://youtu.be/Cm251vBy5sU?si=wg7LfX1_f0KaK_kL), Apr. 2024
