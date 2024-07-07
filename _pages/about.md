@@ -57,7 +57,7 @@ Research
 
 Talks & Events
 ------
-* [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202406293486.html), Mar. 2024
+* [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202406293486.html), Jun. 2024
   <br><span style="font-size: 85%; color: grey;">This event is a workshop using the same tangibles interactive as the one in March.</span>
 
 * [Green Transformation (GX) in The University of Tokyo](https://www.u-tokyo.ac.jp/content/400240676.pdf), Apr. 2024
