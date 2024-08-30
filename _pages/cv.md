@@ -49,6 +49,10 @@ Research
 
 Talks & Events
 ======
+
+* [A workshop in VIVISTOP Kanazawa](https://www.instagram.com/p/C-6hcWQvLvR/?igsh=dm00OHdzazNhOXEw), Aug. 2024
+  * This event is an ideation workshop for children using a tangible machine learning device.
+
 * [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202406293486.html), Jun. 2024
   * This event is a workshop using the same tangibles interactive as the one in March.
 

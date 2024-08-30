@@ -12,7 +12,7 @@ Wataru Kawabe (川辺 航) is a third-year doctoral student at The University of
 
 News
 ------
-* Held [an event at a science museum](https://www.miraikan.jst.go.jp/events/202406293486.html).
+* We held [an event at a science museum](https://www.miraikan.jst.go.jp/events/202406293486.html).
 * I gave a presentation in the [Lab Encounter with CUDANLab, Tallinn University](https://youtu.be/Cm251vBy5sU?si=wg7LfX1_f0KaK_kL).
 * [A paper on output format in ML prototyping](https://doi.org/10.2197/ipsjjip.32.358) was published in Journal of Information Processing.
 <!-- * [A paper on user analysis at a science museum](https://doi.org/10.1093/iwc/iwae007) was published in Interacting with Computers. -->
@@ -58,8 +58,11 @@ Research
 
 Talks & Events
 ------
+* [A workshop in VIVISTOP Kanazawa](https://www.instagram.com/p/C-6hcWQvLvR/?igsh=dm00OHdzazNhOXEw), Aug. 2024
+  <br><span style="font-size: 85%; color: grey;">This event is an ideation workshop for children using a tangible machine learning device.</span>
+
 * [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202406293486.html), Jun. 2024
-  <br><span style="font-size: 85%; color: grey;">This event is a workshop using the same tangibles interactive as the one in March.</span>
+  <br><span style="font-size: 85%; color: grey;">This event is a workshop using the same interactive system as the one in March.</span>
 
 * [Green Transformation (GX) in The University of Tokyo](https://www.u-tokyo.ac.jp/content/400240676.pdf), Apr. 2024
   <br><span style="font-size: 85%; color: grey;">I participated in research introductions and roundtable-style interviews.</span>
@@ -68,7 +71,7 @@ Talks & Events
   <br><span style="font-size: 85%; color: grey;">Lab members including me gave a presentation about published topics.</span>
 
 * [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/research/facilities/tours/#t3), Mar. 2024
-  <br><span style="font-size: 85%; color: grey;">This event is a workshop using a tangibles interactive machine learning system that uses sound as input and motion as output.</span>
+  <br><span style="font-size: 85%; color: grey;">This event is a workshop using a tangible interactive machine learning system that uses sound as input and motion as output.</span>
 
 * A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan), Jul. 2022
   <br><span style="font-size: 85%; color: grey;">The event allowed Miraikan visitors to easily try out interactive machine learning systems on the spot.</span>
