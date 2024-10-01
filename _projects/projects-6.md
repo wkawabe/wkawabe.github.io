@@ -4,7 +4,7 @@ excerpt: "Atsushi Takada, <u><b>Wataru Kawabe</b></u>, and Yusuke Sugano<br/>IEE
 collection: projects
 ---
 
-<img src='/images/projects-6.png'>
+<img src='/images/projects-6.pdf'>
 
 doi (to be appeared)
 
