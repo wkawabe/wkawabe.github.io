@@ -1,6 +1,6 @@
 ---
 title: "Example-based Conditioning for Text-to-Image Generative Models"
-excerpt: "Atsushi Takada, <u><b>Wataru Kawabe</b></u>, and Yusuke Sugano<br/>IEEE Access, 2024<br/>doi to be appeared<br/><img src='/images/site-logo.png' width=600>"
+excerpt: "Atsushi Takada, <u><b>Wataru Kawabe</b></u>, and Yusuke Sugano<br/>IEEE Access, 2024<br/>doi to be appeared<br/><img src='/images/projects-6.png' width=600>"
 collection: projects
 ---
 
