@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wataru Kawabe (川辺 航) is a third-year doctoral student at The University of Tokyo, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). His interest lies in interactive machine learning systems and human-centered machine-learning applications. He is especially focused on exploring ways to make AI and other information technologies more accessible and user-friendly for beginners who lack a technical background or knowledge.
+Wataru Kawabe (川辺 航) is a third-year doctoral student at The University of Tokyo, supervised by [Assoc.Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). His interest lies in interactive machine learning systems and human-centered machine-learning applications. He is especially focused on exploring ways to make AI and other information technologies more accessible and user-friendly for beginners who lack a technical background or knowledge.
 
 News
 ------
@@ -21,12 +21,12 @@ News
 
 Education
 ------
-* Doctor in Computer Science, The University of Tokyo, Apr. 2022 - Mar. 2025 (expected)
-  <br><span style="font-size: 85%; color: grey;">Supervisor: Prof. Yusuke Sugano</span>
-* Master in Computer Science, The University of Tokyo, Apr. 2020 - Mar. 2022
-  <br><span style="font-size: 85%; color: grey;">Supervisor: Prof. Yusuke Sugano</span>
+* Ph.D. in Information Science and Technology, The University of Tokyo, Apr. 2022 - Mar. 2025 (expected)
+  <br><span style="font-size: 85%; color: grey;">Supervisor: Assoc.Prof. Yusuke Sugano</span>
+* M.S. in Information Science and Technology, The University of Tokyo, Apr. 2020 - Mar. 2022
+  <br><span style="font-size: 85%; color: grey;">Supervisor: Assoc.Prof. Yusuke Sugano</span>
   <!-- * <span style="font-size: 85%; color: grey;">Thesis: *Interactive Image Recognition for Non-Expert Users based on Image-to-Text Translation*</span> -->
-* Bachelor in Engineering, The University of Tokyo, Apr. 2015 - Mar. 2020
+* B.Eng, Department of Systems Innovation, The University of Tokyo, Apr. 2015 - Mar. 2020
   <br><span style="font-size: 85%; color: grey;">Supervisor: Prof. Kazuhiro Aoyama</span>
   <!-- * <span style="font-size: 85%; color: grey;">Thesis: *A Process to Extract the Object Processing on Assembly Surface Plates in a Shipyard*</span> -->
 

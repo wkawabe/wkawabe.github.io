@@ -13,11 +13,11 @@ Contact: wkawabe (at) iis.u-tokyo.ac.jp
 
 Education
 ======
-* Doctor in Computer Science, The University of Tokyo, Apr. 2022 - Mar. 2025 (expected)
-  * Advisor: [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/)
-* Master in Computer Science, The University of Tokyo, Apr. 2020 - Mar. 2022
-  * Advisor: Prof. Yusuke Sugano
-* Bachelor in Engineering, The University of Tokyo, Apr. 2015 - Mar. 2020
+* Ph.D. in Information Science and Technology, The University of Tokyo, Apr. 2022 - Mar. 2025 (expected)
+  * Advisor: [Assoc.Prof. Yusuke Sugano](https://www.yusuke-sugano.info/)
+* M.S. in Information Science and Technology, The University of Tokyo, Apr. 2020 - Mar. 2022
+  * Advisor: Assoc.Prof. Yusuke Sugano
+* B.Eng, Department of Systems Innovation, The University of Tokyo, Apr. 2015 - Mar. 2020
   * Advisor: [Prof. Kazuhiro Aoyama](https://www.sys.t.u-tokyo.ac.jp/en/memberpage/170)
 
 
