@@ -12,9 +12,10 @@ Wataru Kawabe (川辺 航) is a third-year doctoral student at The University of
 
 News
 ------
+* We published [a paper on text-based image generation](https://doi.org/10.1109/ACCESS.2024.3486055) in IEEE Access.
 * We held [an event at a science museum](https://www.miraikan.jst.go.jp/events/202406293486.html).
 * I gave a presentation in the [Lab Encounter with CUDANLab, Tallinn University](https://youtu.be/Cm251vBy5sU?si=wg7LfX1_f0KaK_kL).
-* [A paper on output format in ML prototyping](https://doi.org/10.2197/ipsjjip.32.358) was published in Journal of Information Processing.
+<!-- * [A paper on output format in ML prototyping](https://doi.org/10.2197/ipsjjip.32.358) was published in Journal of Information Processing. -->
 <!-- * [A paper on user analysis at a science museum](https://doi.org/10.1093/iwc/iwae007) was published in Interacting with Computers. -->
 <!-- * We presented [a work related with 3D scanning](https://dl.acm.org/doi/10.1145/3610543.3626170) at SIGGRAPH Asia, Dec. 2023 -->
 <!-- * Held [a workshop in Miraikan](https://www.miraikan.jst.go.jp/events/202207302596.html), Jul. 2022 -->
