@@ -59,6 +59,9 @@ Research
 
 Talks & Events
 ------
+* [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202412013732.html), Dec. 2024
+  <br><span style="font-size: 85%; color: grey;">This event is a workshop using [xMod](https://shadan.xdiversity.org/xmod) and an LLM-based training strategy.</span>
+
 * [A workshop in VIVISTOP Kanazawa](https://www.instagram.com/p/C-6hcWQvLvR/?igsh=dm00OHdzazNhOXEw), Aug. 2024
   <br><span style="font-size: 85%; color: grey;">This event is an ideation workshop for children using a tangible machine learning device.</span>
 

@@ -86,7 +86,7 @@ author:
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.co.jp/citations?user=g7xNQA0AAAAJ&hl=ja&oi=ao"
+  googlescholar    : 
   email            : "wkawabe@iis.u-tokyo.ac.jp"
   researchgate     :  # "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -105,7 +105,7 @@ author:
   linkedin         : "wataru-kawabe-663055180"
   orcid            : 
   pinterest        :
-  soundcloud       : # "w-k-1918095"
+  soundcloud       : 
   stackoverflow    : 
   steam            :
   tumblr           :
