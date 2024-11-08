@@ -12,9 +12,11 @@ Wataru Kawabe (川辺 航) is a third-year doctoral student at The University of
 
 News
 ------
+* We are presenting [a poster](https://asia.siggraph.org/2024/presentation/?id=pos_149&sess=sess198#038;sess=sess198) at SIGGRAPH Asia 2024.
+* We are now recruiting SVs for [ETRA2025](https://etra.acm.org/2025/)! Please complete [the Google form](https://docs.google.com/forms/d/e/1FAIpQLSfbpyajIHWt4IubIoC7R4HiSyQlmymli8Ebjx0miuo31Dnd-Q/viewform?usp=sf_link) to submit your application! 
 * We published [a paper on text-based image generation](https://doi.org/10.1109/ACCESS.2024.3486055) in IEEE Access.
-* We held [an event at a science museum](https://www.miraikan.jst.go.jp/events/202406293486.html).
-* I gave a presentation in the [Lab Encounter with CUDANLab, Tallinn University](https://youtu.be/Cm251vBy5sU?si=wg7LfX1_f0KaK_kL).
+<!-- * We held [an event at a science museum](https://www.miraikan.jst.go.jp/events/202406293486.html). -->
+<!-- * I gave a presentation in the [Lab Encounter with CUDANLab, Tallinn University](https://youtu.be/Cm251vBy5sU?si=wg7LfX1_f0KaK_kL). -->
 <!-- * [A paper on output format in ML prototyping](https://doi.org/10.2197/ipsjjip.32.358) was published in Journal of Information Processing. -->
 <!-- * [A paper on user analysis at a science museum](https://doi.org/10.1093/iwc/iwae007) was published in Interacting with Computers. -->
 <!-- * We presented [a work related with 3D scanning](https://dl.acm.org/doi/10.1145/3610543.3626170) at SIGGRAPH Asia, Dec. 2023 -->
