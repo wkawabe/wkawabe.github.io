@@ -47,7 +47,7 @@ Research
   Please check my [projects page](https://wkawabe.github.io/projects/).
   
 
-Talks & Events
+Events
 ======
 
 * [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202412013732.html), Dec. 2024
@@ -59,18 +59,24 @@ Talks & Events
 * [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202406293486.html), Jun. 2024
   * This event is a workshop using the same tangibles interactive as the one in March.
 
-* [Green Transformation (GX) in The University of Tokyo](https://www.u-tokyo.ac.jp/content/400240676.pdf), Apr. 2024
-  * I participated in research introductions and roundtable-style interviews.
-
-* [Lab Encounter with CUDANLab, Tallinn University](https://youtu.be/Cm251vBy5sU?si=wg7LfX1_f0KaK_kL), Apr. 2024
-  * Lab members including me gave a presentation about published topics.
-
 * [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/research/facilities/tours/#t3), Mar. 2024
   * This event is a workshop using a tangibles interactive machine learning system that uses sound as input and motion as output.
 
 * A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan), Jul. 2022
   * The event allowed Miraikan visitors to easily try out interactive machine learning systems on the spot.
   * [Video of this event](https://youtu.be/MX2XYA0LKa8?si=7hV9LGVfgSrCGMcz)
+
+
+
+
+Talks
+======
+
+* [Green Transformation (GX) in The University of Tokyo](https://www.u-tokyo.ac.jp/content/400240676.pdf), Apr. 2024
+  * I participated in research introductions and roundtable-style interviews.
+
+* [Lab Encounter with CUDANLab, Tallinn University](https://youtu.be/Cm251vBy5sU?si=wg7LfX1_f0KaK_kL), Apr. 2024
+  * Lab members including me gave a presentation about published topics.
 
 * [A presentation in Graduate Student Forum, The University of Tokyo](https://tcjs.u-tokyo.ac.jp/ja/archives/3170), Mar. 2022
   * This talk is about end-user involvement with interactive machine learning systems.

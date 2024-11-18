@@ -59,7 +59,7 @@ Research
 ------
   Please check my [projects page](https://wkawabe.github.io/projects/).
 
-Talks & Events
+Events
 ------
 * [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202412013732.html), Dec. 2024
   <br><span style="font-size: 85%; color: grey;">This event is a workshop using [xMod](https://shadan.xdiversity.org/xmod) and an LLM-based training strategy.</span>
@@ -70,18 +70,22 @@ Talks & Events
 * [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/events/202406293486.html), Jun. 2024
   <br><span style="font-size: 85%; color: grey;">This event is a workshop using the same interactive system as the one in March.</span>
 
-* [Green Transformation (GX) in The University of Tokyo](https://www.u-tokyo.ac.jp/content/400240676.pdf), Apr. 2024
-  <br><span style="font-size: 85%; color: grey;">I participated in research introductions and roundtable-style interviews.</span>
-
-* [Lab Encounter with CUDANLab, Tallinn University](https://youtu.be/Cm251vBy5sU?si=wg7LfX1_f0KaK_kL), Apr. 2024
-  <br><span style="font-size: 85%; color: grey;">Lab members including me gave a presentation about published topics.</span>
-
 * [A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan)](https://www.miraikan.jst.go.jp/research/facilities/tours/#t3), Mar. 2024
   <br><span style="font-size: 85%; color: grey;">This event is a workshop using a tangible interactive machine learning system that uses sound as input and motion as output.</span>
 
 * A workshop in Miraikan (The National Museum of Emerging Science and Innovation, Japan), Jul. 2022
   <br><span style="font-size: 85%; color: grey;">The event allowed Miraikan visitors to easily try out interactive machine learning systems on the spot.</span>
   <br><span style="font-size: 85%; color: grey;">[Video of this event](https://youtu.be/MX2XYA0LKa8?si=7hV9LGVfgSrCGMcz)</span>
+
+
+Talks
+------
+
+* [Green Transformation (GX) in The University of Tokyo](https://www.u-tokyo.ac.jp/content/400240676.pdf), Apr. 2024
+  <br><span style="font-size: 85%; color: grey;">I participated in research introductions and roundtable-style interviews.</span>
+
+* [Lab Encounter with CUDANLab, Tallinn University](https://youtu.be/Cm251vBy5sU?si=wg7LfX1_f0KaK_kL), Apr. 2024
+  <br><span style="font-size: 85%; color: grey;">Lab members including me gave a presentation about published topics.</span>
 
 * [A presentation in Graduate Student Forum, The University of Tokyo](https://tcjs.u-tokyo.ac.jp/ja/archives/3170), Mar. 2022
   <br><span style="font-size: 85%; color: grey;">This talk is about end-user involvement with interactive machine learning systems.</span>
