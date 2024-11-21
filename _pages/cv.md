@@ -21,7 +21,7 @@ Education
   * Advisor: [Prof. Kazuhiro Aoyama](https://www.sys.t.u-tokyo.ac.jp/en/memberpage/170)
 
 
-Work experience
+Experience
 ======
 * [Singapore Management University](https://www.smu.edu.sg/), May. 2023 - Nov. 2023
   * Visiting Postgraduate Research Student
@@ -40,6 +40,9 @@ Work experience
 
 * [Ghelia Inc.](https://ghelia.com/), Apr. 2020 - Mar. 2021
   * Machine Learning Engineer
+
+* UTokyo Spring Founders Program, Mar. 2019
+  * Member
 
 
 Research
