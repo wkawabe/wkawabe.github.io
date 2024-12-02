@@ -1,11 +1,11 @@
 ---
-title: "A Multimodal LLM-based Assistant for User-Centric Interactive Machine Learning"
-excerpt: "<u><b>Wataru Kawabe</b></u> and Yusuke Sugano<br/>SIGGRAPH Asia, Posters, 2024<br/>[doi](https://doi.org/10.1145/3681756.3697880)<br/><img src='/images/projects-5.png' width=600>"
+title: "DuetML: Human-LLM Collaborative Machine Learning Framework for Non-Expert Users"
+excerpt: "<u><b>Wataru Kawabe</b></u> and Yusuke Sugano<br/>SIGGRAPH Asia, Posters, 2024<br/>[doi (Poster abstract)](https://doi.org/10.1145/3681756.3697880), [arXiv](https://arxiv.org/abs/2411.18908)<br/><img src='/images/projects-5.png' width=600>"
 collection: projects
 ---
 
 <img src='/images/projects-5.png'>
 
-[doi](https://doi.org/10.1145/3681756.3697880)
+[doi (Poster abstract)](https://doi.org/10.1145/3681756.3697880), [arXiv](https://arxiv.org/abs/2411.18908)
 
-This paper introduces a novel interactive system powered by a multimodal large language model (MLLM) designed to democratize machine learning development for non-experts. Unlike traditional ML development approaches, our MLLM-based assistant engages users in natural conversations while providing visual feedback, helping them articulate their requirements and generate high-quality training data. A key challenge in ML development is that novice users often struggle to create comprehensive and well-balanced training datasets that accurately reflect their intended use cases. Our system addresses this challenge by actively monitoring the user's interactions and providing real-time guidance, translating abstract user requirements into concrete ML specifications through multimodal dialogue. Through our user studies, we demonstrate that this approach significantly improves the quality of training data and leads to more successful ML model development outcomes.
+Machine learning (ML) models have significantly impacted various domains in our everyday lives. While large language models (LLMs) offer intuitive interfaces and versatility, task-specific ML models remain valuable for their efficiency and focused performance in specialized tasks. However, developing these models requires technical expertise, making it particularly challenging for non-expert users to customize them for their unique needs. Although interactive machine learning (IML) aims to democratize ML development through user-friendly interfaces, users struggle to translate their requirements into appropriate ML tasks. We propose human-LLM collaborative ML as a new paradigm bridging human-driven IML and machine-driven LLM approaches. To realize this vision, we introduce \systemname, a framework that integrates multimodal LLMs (MLLMs) as interactive agents collaborating with users throughout the ML process. Our system carefully balances MLLM capabilities with user agency by implementing both reactive and proactive interactions between users and MLLM agents. Through a comparative user study, we demonstrate that \systemname enables non-expert users to define training data that better aligns with target tasks without increasing cognitive load, while offering opportunities for deeper engagement with ML task formulation.
