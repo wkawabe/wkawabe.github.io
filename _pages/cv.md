@@ -83,3 +83,9 @@ Talks
 
 * [A presentation in Graduate Student Forum, The University of Tokyo](https://tcjs.u-tokyo.ac.jp/ja/archives/3170), Mar. 2022
   * This talk is about end-user involvement with interactive machine learning systems.
+
+
+Academic Services
+======
+
+* Student Volunteer Chair, [ACM Symposium on Eye Tracking Research & Applications (ETRA)](https://etra.acm.org/2025/index.html), May. 2025
