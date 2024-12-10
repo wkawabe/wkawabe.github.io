@@ -12,7 +12,7 @@ Wataru Kawabe (川辺 航) is a third-year doctoral student at The University of
 
 News
 ------
-* We are presenting [a poster](https://asia.siggraph.org/2024/presentation/?id=pos_149&sess=sess198#038;sess=sess198) at SIGGRAPH Asia 2024.
+* We are presenting [a poster](https://asia.siggraph.org/2024/presentation/?id=pos_149&sess=sess198#038;sess=sess198) at SIGGRAPH Asia 2024. We also uploaded [a longer manuscript on arXiv](https://arxiv.org/abs/2411.18908).
 * We are now recruiting SVs for [ETRA2025](https://etra.acm.org/2025/)! Please complete [the Google form](https://docs.google.com/forms/d/e/1FAIpQLSfbpyajIHWt4IubIoC7R4HiSyQlmymli8Ebjx0miuo31Dnd-Q/viewform?usp=sf_link) to submit your application! 
 * We published [a paper on text-based image generation](https://doi.org/10.1109/ACCESS.2024.3486055) in IEEE Access.
 <!-- * We held [an event at a science museum](https://www.miraikan.jst.go.jp/events/202406293486.html). -->
