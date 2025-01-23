@@ -13,7 +13,7 @@ Contact: wkawabe (at) iis.u-tokyo.ac.jp
 
 Education
 ======
-* Ph.D. in Information Science and Technology, The University of Tokyo, Apr. 2022 - Mar. 2025 (expected)
+* Ph.D. in Information Science and Technology, The University of Tokyo, Apr. 2022 - Mar. 2025
   * Advisor: [Assoc.Prof. Yusuke Sugano](https://www.yusuke-sugano.info/)
 * M.S. in Information Science and Technology, The University of Tokyo, Apr. 2020 - Mar. 2022
   * Advisor: Assoc.Prof. Yusuke Sugano
