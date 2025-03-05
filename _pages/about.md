@@ -37,13 +37,13 @@ Education
 
 Experience
 ------
-* [Mitsubishi Research Institute, Inc.](https://www.mri.co.jp/), Apr 2025 - 
+* [Mitsubishi Research Institute, Inc.](https://www.mri.co.jp/), Apr. 2025 - 
   <br><span style="font-size: 85%; color: grey;">Researcher</span>
 
-* [Institute of Industrial Science, The University of Tokyo](https://www.iis.u-tokyo.ac.jp/), Apr 2025 - 
+* [Institute of Industrial Science, The University of Tokyo](https://www.iis.u-tokyo.ac.jp/), Apr. 2025 - 
   <br><span style="font-size: 85%; color: grey;">Cooperative Research Fellow</span>
 
-* [Singapore Management University](https://www.smu.edu.sg/), May 2023 - Nov. 2023
+* [Singapore Management University](https://www.smu.edu.sg/), May. 2023 - Nov. 2023
   <br><span style="font-size: 85%; color: grey;">Visiting Postgraduate Research Student</span>
 
 * [Preferred Networks](https://www.preferred.jp/), Oct. 2022 - Mar. 2023 
