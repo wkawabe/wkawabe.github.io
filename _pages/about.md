@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Wataru Kawabe (川辺 航) is a third-year doctoral student at The University of Tokyo, supervised by [Assoc.Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). His interest lies in interactive machine learning systems and human-centered machine-learning applications. He is especially focused on exploring ways to make AI and other information technologies more accessible and user-friendly for beginners who lack a technical background or knowledge.
+Wataru Kawabe (川辺 航), Ph.D. is a Cooperative Research Fellow at Institute of Industrial Science, The University of Tokyo, working with [Assoc.Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). His interest lies in interactive machine learning systems and human-centered machine-learning applications. He is especially focused on exploring ways to make AI and other information technologies more accessible and user-friendly for beginners who lack a technical background or knowledge.
 
 News
 ------
 * I have successfully defended my doctoral dissertation and will be receiving my Ph.D.!
 * We are presenting [a poster](https://asia.siggraph.org/2024/presentation/?id=pos_149&sess=sess198#038;sess=sess198) at SIGGRAPH Asia 2024. We also uploaded [a longer manuscript on arXiv](https://arxiv.org/abs/2411.18908).
 * We are now recruiting SVs for [ETRA2025](https://etra.acm.org/2025/)! Please complete [the Google form](https://docs.google.com/forms/d/e/1FAIpQLSfbpyajIHWt4IubIoC7R4HiSyQlmymli8Ebjx0miuo31Dnd-Q/viewform?usp=sf_link) to submit your application! 
-* We published [a paper on text-based image generation](https://doi.org/10.1109/ACCESS.2024.3486055) in IEEE Access.
+<!-- * We published [a paper on text-based image generation](https://doi.org/10.1109/ACCESS.2024.3486055) in IEEE Access. -->
 <!-- * We held [an event at a science museum](https://www.miraikan.jst.go.jp/events/202406293486.html). -->
 <!-- * I gave a presentation in the [Lab Encounter with CUDANLab, Tallinn University](https://youtu.be/Cm251vBy5sU?si=wg7LfX1_f0KaK_kL). -->
 <!-- * [A paper on output format in ML prototyping](https://doi.org/10.2197/ipsjjip.32.358) was published in Journal of Information Processing. -->
@@ -37,8 +37,8 @@ Education
 
 Experience
 ------
-* [Mitsubishi Research Institute, Inc.](https://www.mri.co.jp/), Apr. 2025 - 
-  <br><span style="font-size: 85%; color: grey;">Researcher</span>
+<!-- * [Mitsubishi Research Institute, Inc.](https://www.mri.co.jp/), Apr. 2025 - 
+  <br><span style="font-size: 85%; color: grey;">Researcher</span> -->
 
 * [Institute of Industrial Science, The University of Tokyo](https://www.iis.u-tokyo.ac.jp/), Apr. 2025 - 
   <br><span style="font-size: 85%; color: grey;">Cooperative Research Fellow</span>
