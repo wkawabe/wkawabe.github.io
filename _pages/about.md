@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Wataru Kawabe (川辺 航), Ph.D. is a Cooperative Research Fellow at Institute of Industrial Science, The University of Tokyo, working with [Assoc.Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). His interest lies in interactive machine learning systems and human-centered machine-learning applications. He is especially focused on exploring ways to make AI and other information technologies more accessible and user-friendly for beginners who lack a technical background or knowledge.
+<!-- Wataru Kawabe (川辺 航), Ph.D. is a Cooperative Research Fellow at Institute of Industrial Science, The University of Tokyo, working with [Assoc.Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). His interest lies in interactive machine learning systems and human-centered machine-learning applications. He is especially focused on exploring ways to make AI and other information technologies more accessible and user-friendly for beginners who lack a technical background or knowledge. -->
+
+Wataru Kawabe (川辺 航) is a Cooperative Research Fellow at the Institute of Industrial Science, The University of Tokyo. 
+He received his Ph.D. from the University of Tokyo in 2025 under the supervision of [Assoc. Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). 
+His interest lies in interactive AI/machine-learning systems and human-centered AI/machine-learning applications. 
+He is especially focused on exploring ways to make AI and related information technologies more accessible and user-friendly for beginners who lack a technical background or knowledge.
 
 News
 ------
