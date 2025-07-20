@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wataru Kawabe (川辺 航)"
+title                    : "Wataru Kawabe (川辺 航/川邊 航)"
 title_separator          : "-"
-name                     : &name "Wataru Kawabe (川辺 航)"
+name                     : &name "Wataru Kawabe (川辺 航/川邊 航)"
 description              : &description "personal description"
 url                      : https://wkawabe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

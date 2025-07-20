@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Wataru Kawabe (川辺 航), Ph.D. is a Cooperative Research Fellow at Institute of Industrial Science, The University of Tokyo, working with [Assoc.Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). His interest lies in interactive machine learning systems and human-centered machine-learning applications. He is especially focused on exploring ways to make AI and other information technologies more accessible and user-friendly for beginners who lack a technical background or knowledge. -->
 
 Wataru Kawabe (川辺 航 / 川邊 航) is a Cooperative Research Fellow at the Institute of Industrial Science, The University of Tokyo. 
 He received his Ph.D. from The University of Tokyo in 2025 under the supervision of [Assoc. Prof. Yusuke Sugano](https://www.yusuke-sugano.info/). 
@@ -19,7 +18,7 @@ News
 ------
 * [ETRA2025](https://etra.acm.org/2025/) has successfully concluded. Thank you to all the SVs for your great support and cooperation!
 * I have successfully defended my doctoral dissertation and will be receiving my Ph.D.!
-* We are presenting [a poster](https://asia.siggraph.org/2024/presentation/?id=pos_149&sess=sess198#038;sess=sess198) at SIGGRAPH Asia 2024. We also uploaded [a longer manuscript on arXiv](https://arxiv.org/abs/2411.18908).
+* We are presenting [a poster](https://dl.acm.org/doi/10.1145/3681756.3697880) at SIGGRAPH Asia 2024. We also uploaded [a longer manuscript on arXiv](https://arxiv.org/abs/2411.18908).
 <!-- * We are now recruiting SVs for [ETRA2025](https://etra.acm.org/2025/)! Please complete [the Google form](https://docs.google.com/forms/d/e/1FAIpQLSfbpyajIHWt4IubIoC7R4HiSyQlmymli8Ebjx0miuo31Dnd-Q/viewform?usp=sf_link) to submit your application!  -->
 <!-- * We published [a paper on text-based image generation](https://doi.org/10.1109/ACCESS.2024.3486055) in IEEE Access. -->
 <!-- * We held [an event at a science museum](https://www.miraikan.jst.go.jp/events/202406293486.html). -->
