@@ -16,6 +16,7 @@ He is especially focused on exploring ways to make AI and related information te
 
 News
 ------
+* We have uploaded [a preprint](https://arxiv.org/abs/2508.00252) about a machine learning experience using [xMod](https://shadan.xdiversity.org/xmod).
 * [ETRA2025](https://etra.acm.org/2025/) has successfully concluded. Thank you to all the SVs for your great support and cooperation!
 * I have successfully defended my doctoral dissertation and will be receiving my Ph.D.!
 * We are presenting [a poster](https://dl.acm.org/doi/10.1145/3681756.3697880) at SIGGRAPH Asia 2024. We also uploaded [a longer manuscript on arXiv](https://arxiv.org/abs/2411.18908).
