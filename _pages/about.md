@@ -16,18 +16,11 @@ He is especially focused on exploring ways to make AI and related information te
 
 News
 ------
+* [Our paper](https://doi.org/10.1080/10447318.2026.2619622) on [xMod](https://shadan.xdiversity.org/xmod) has been published in International Journal of Human-Computer Interaction.
 * We have uploaded [a preprint](https://arxiv.org/abs/2508.00252) about a machine learning experience using [xMod](https://shadan.xdiversity.org/xmod).
 * [ETRA2025](https://etra.acm.org/2025/) has successfully concluded. Thank you to all the SVs for your great support and cooperation!
 * I have successfully defended my doctoral dissertation and will be receiving my Ph.D.!
-* We are presenting [a poster](https://dl.acm.org/doi/10.1145/3681756.3697880) at SIGGRAPH Asia 2024. We also uploaded [a longer manuscript on arXiv](https://arxiv.org/abs/2411.18908).
-<!-- * We are now recruiting SVs for [ETRA2025](https://etra.acm.org/2025/)! Please complete [the Google form](https://docs.google.com/forms/d/e/1FAIpQLSfbpyajIHWt4IubIoC7R4HiSyQlmymli8Ebjx0miuo31Dnd-Q/viewform?usp=sf_link) to submit your application!  -->
-<!-- * We published [a paper on text-based image generation](https://doi.org/10.1109/ACCESS.2024.3486055) in IEEE Access. -->
-<!-- * We held [an event at a science museum](https://www.miraikan.jst.go.jp/events/202406293486.html). -->
-<!-- * I gave a presentation in the [Lab Encounter with CUDANLab, Tallinn University](https://youtu.be/Cm251vBy5sU?si=wg7LfX1_f0KaK_kL). -->
-<!-- * [A paper on output format in ML prototyping](https://doi.org/10.2197/ipsjjip.32.358) was published in Journal of Information Processing. -->
-<!-- * [A paper on user analysis at a science museum](https://doi.org/10.1093/iwc/iwae007) was published in Interacting with Computers. -->
-<!-- * We presented [a work related with 3D scanning](https://dl.acm.org/doi/10.1145/3610543.3626170) at SIGGRAPH Asia, Dec. 2023 -->
-<!-- * Held [a workshop in Miraikan](https://www.miraikan.jst.go.jp/events/202207302596.html), Jul. 2022 -->
+<!-- * We are presenting [a poster](https://dl.acm.org/doi/10.1145/3681756.3697880) at SIGGRAPH Asia 2024. We also uploaded [a longer manuscript on arXiv](https://arxiv.org/abs/2411.18908). -->
 
 Education
 ------
